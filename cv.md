@@ -4,7 +4,7 @@
 
 *My goal is to take the course, my ambition is to learn programming as quickly as possible*
 - *Html, Css*
-- ```javascript
+ ```javascript
 function multiply(a, b){
     return a * b;
 }
