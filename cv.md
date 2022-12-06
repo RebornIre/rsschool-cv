@@ -1,6 +1,6 @@
 # Isaev Khayal
 
-## Teregmal - @isaevtime
+## Telegram - @isaevtime
 
 *My goal is to take the course, my ambition is to learn programming as quickly as possible*
 - *Html, Css*
