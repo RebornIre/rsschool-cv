@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://RebornIre.github.io/rsschool-cv/cv
+https://RebornIre.github.io/rsschool-cv/
